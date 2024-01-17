@@ -11,4 +11,4 @@ This template should help get you started developing with Vue 3 and TypeScript i
 1. pnpm install
 2. pnpm run dev
    
-> You can find mnore actions in `package.json` .
+> You can find more actions in `package.json` .
